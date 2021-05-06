@@ -1,0 +1,7 @@
+﻿  Main.cpp
+f:\研二（2）\mainproject\mainproject\tcpservice.h(8): warning C4083: 应输入“newline”；找到标识符“；”
+f:\研二（2）\mainproject\mainproject\main.cpp(14): warning C4838: 从“double”转换到“float”需要收缩转换
+f:\研二（2）\mainproject\mainproject\main.cpp(14): warning C4305: “初始化”: 从“double”到“float”截断
+f:\研二（2）\mainproject\mainproject\tcpservice.h(68): warning C4172: 返回局部变量或临时变量的地址: encodeAngles
+  MainProject.vcxproj -> F:\研二（2）\MainProject\Debug\MainProject.exe
+  MainProject.vcxproj -> F:\研二（2）\MainProject\Debug\MainProject.pdb (Partial PDB)
